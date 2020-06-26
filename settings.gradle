@@ -1,2 +1,5 @@
+include ':unityLibrary-debug2'
+include ':unityLibrary-debug1'
+include ':unityLibrary-debug'
 rootProject.name='LogIn'
 include ':app'

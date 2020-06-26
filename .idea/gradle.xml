@@ -11,6 +11,9 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/unityLibrary-debug" />
+            <option value="$PROJECT_DIR$/unityLibrary-debug1" />
+            <option value="$PROJECT_DIR$/unityLibrary-debug2" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

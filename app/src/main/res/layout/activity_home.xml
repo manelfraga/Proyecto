@@ -8,9 +8,9 @@
     android:id="@+id/drawer">
 
     <include
-        android:layout_height="wrap_content"
+        layout="@layout/drawer_toolbar"
         android:layout_width="match_parent"
-        layout="@layout/drawer_toolbar">
+        android:layout_height="wrap_content">
 
     </include>
 
@@ -20,6 +20,11 @@
         layout="@layout/content_main">
 
     </include>
+
+
+
+
+
 
     <com.google.android.material.navigation.NavigationView
         android:id="@+id/navigationView"
